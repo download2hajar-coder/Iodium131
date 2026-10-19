@@ -1,0 +1,5 @@
+output: .build
+configuration: cpu=atmega328old
+board: arduino:avr:nano
+port: COM7
+sketch: I_131_Hardware_Concurrent_Motor_Test.ino
